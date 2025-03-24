@@ -24,7 +24,7 @@ To exit the program, close the console window or press Ctrl+C.
 1. Clone the repository:
 ```bash
 git clone https://github.com/kryo1337/clumsytoggle.git
-cd clumsy-toggle
+cd clumsytoggle
 ```
 2. Compile the code:
 ```bash
