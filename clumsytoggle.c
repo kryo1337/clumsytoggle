@@ -9,7 +9,7 @@ static HWND g_hwndButton = NULL;
 static int isRunning = 0;
 
 void PrintHeader() {
-    printf("\nClumsy Toggle - made by kryo\n");
+    printf("Clumsy Toggle - made by kryo\n");
     printf("Press Alt to toggle, Ctrl+C to exit\n\n");
 }
 
